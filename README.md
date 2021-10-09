@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattblackham
-- 👀 I’m interested in ...learning more about Git & GitHub
-- 🌱 I’m currently ...learning Git
-- 💞️ I’m looking to collaborate on T...BD
+- 👀 I’m interested in ... improving my microservice skills
+- 🌱 I’m currently ...learning more about .Net services
+- 💞️ I’m looking to collaborate on ...TBD
 - 📫 How to reach me ...keeping things low profile for now.
 
 <!---
